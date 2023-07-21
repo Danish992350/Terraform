@@ -1,0 +1,8 @@
+*.provider.tf
+*.tfstate
+*.tfvar
+*.json
+*.tfstate.backup
+*.hcl
+*provider.tf
+~            
